@@ -1,10 +1,8 @@
 # 💫 About Me:
 Hello, my name is Hashib Raja<br>I' m a Full Stack Developer<br>Web developer with a commerce background. Proficient in HTML, CSS, JS, React, Node.js, MongoDB, and Mongoose. Fast learner and quick to solve problems. Proven ability to deliver high-quality work on time and within budget.
 
-## Projects
-* [Project 1](https://github.com/username/project1)
-* [Project 2](https://github.com/username/project2)
-* [Project 3](https://github.com/username/project3)
+## Portfolio
+[Hashib Raja 🔥]([https://github.com/username/project1](https://portfolio-hashib.netlify.app/))
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hashib-raja-308059219) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hashib_raja) 
