@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Hashib Raja<br>I' m a Full Stack Developer<br>Web developer with a commerce background. Proficient in HTML, CSS, JS, React, Node.js, MongoDB, and Mongoose. Fast learner and quick to solve problems. Proven ability to deliver high-quality work on time and within budget.
+Hi, I’m Full Stack Developer with a commerce background. Proficient in JavaScript, HTML, CSS, React, Node.js, and MongoDB. Excel in Data Structures and Algorithms with a 4.7 rating, resolving 945 doubts as a Teaching Assistant. Proficient in Git. Fluent in Hindi, English, and Urdu. Thrive in collaborative settings, delivering quality work on time and budget.
 
 ## Portfolio
 [Hashib Raja](https://portfolio-hashib.netlify.app/)
