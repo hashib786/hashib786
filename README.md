@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Full Stack Developer with a commerce background. Proficient in JavaScript, HTML, CSS, React, Node.js, and MongoDB. Excel in Data Structures and Algorithms with a 4.7 rating, resolving 945 doubts as a Teaching Assistant. Proficient in Git. Fluent in Hindi, English, and Urdu. Thrive in collaborative settings, delivering quality work on time and budget.
+Hi, I’m Full Stack Developer with a commerce background. Proficient in JavaScript, HTML, CSS, React, Node.js, and MongoDB. Excel in Data Structures and Algorithms with A 4.7 rating, resolving 945 doubts as a Teaching Assistant. Proficient in Git. Fluent in Hindi, English, and Urdu. Thrive in collaborative settings, delivering quality work on time and budget.
 
 ## Portfolio
 [Hashib Raja!](https://portfolio-hashib.netlify.app/)
