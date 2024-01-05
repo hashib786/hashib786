@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me::
 Hi, I’m Full Stack Developer with a commerce background. Proficient in JavaScript, HTML, CSS, React, Node.js, and MongoDB. Excel in Data Structures and Algorithms With A 4.7 Rating, resolving 945 doubts as a Teaching Assistant. Proficient in Git. Fluent in Hindi, English, and Urdu. Thrive in collaborative settings, delivering quality work on time and budget.
 
 ## 📽️ Portfolio
